@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AreaConverter</string>
+    <string-array name="area_units">
+        <item>Square Meters</item>
+        <item>Square Centimeters</item>
+        <item>Square Feet</item>
+        <item>Square Inches</item>
+    </string-array>
+</resources>
